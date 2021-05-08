@@ -1,0 +1,16 @@
+Source: hildon-theme-alpha
+Priority: optional
+Section: themes
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends:
+ debhelper-compat (=12),
+Standards-Version: 4.3.0
+Vcs-Git: https://github.com/maemo-leste/hildon-theme-alpha
+Vcs-Browser: https://github.com/maemo-leste/hildon-theme-alpha
+
+Package: location-daemon
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+ gtk2-engines-sapwood,
+ hildon-theme-cacher,
+Description: Nokia Nseries Theme.

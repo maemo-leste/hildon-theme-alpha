@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-Hildon-Metatheme
+Name=Nokia Nseries
+Icon=/usr/share/themes/alpha/images/qgn_plat_theme_thumbnail.png
+Encoding=UTF-8
+
+[X-Hildon-Metatheme]
+GtkTheme=alpha
+IconTheme=default
+X-MatchboxTheme=alpha
+X-AdditionalRCFiles=maemo_af_desktop
+X-OperaSkin=default.zip

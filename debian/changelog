@@ -1,0 +1,271 @@
+hildon-theme-alpha (9.4+0m5) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix +0m5 added to package revision
+
+ -- Urho Konttori <urho.konttori@nokia.com>  Wed, 17 Feb 2010 13:36:14 +0200
+
+hildon-theme-alpha (9.4) unstable; urgency=low
+
+  * Fixes: NB#150052,NB#154484,NB#151001
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri,  5 Feb 2010 11:37:32 +0200
+
+hildon-theme-alpha (9.3) unstable; urgency=low
+
+  * Changes in theme template.
+  * Fixes: NB#126631,NB#132689,NB#137113,NB#137494,NB#141112,NB#144195,NB#144205,NB#144315,NB#144352,NB#147246,NB#148044,NB#149015
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 08 Dec 2009 10:09:00 +0200
+
+hildon-theme-alpha (9.2) unstable; urgency=low
+
+  * Changes in theme template.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 21 Oct 2009 10:09:00 +0300
+
+hildon-theme-alpha (9.1) unstable; urgency=low
+
+  * Fixes: NB#141065
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 08 Oct 2009 10:09:00 +0300
+
+hildon-theme-alpha (9.0) unstable; urgency=low
+
+  * Fixes: NB#141916
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 07 Oct 2009 10:09:00 +0300
+
+hildon-theme-alpha (8.9) unstable; urgency=low
+
+  * Fixes: NB#141065
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 29 Sep 2009 18:34:00 +0300
+
+hildon-theme-alpha (8.8) unstable; urgency=low
+
+  * Fixes: NB#130832
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 14 Sep 2009 09:11:00 +0300
+
+hildon-theme-alpha (8.7) unstable; urgency=low
+
+  * Fixes: NB#136719
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 03 Sep 2009 09:11:00 +0300
+
+hildon-theme-alpha (8.6) unstable; urgency=low
+
+  * Refreshes theme template and clock background.
+  * Fixes: NB#134173
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 26 Aug 2009 09:11:00 +0300
+
+hildon-theme-alpha (8.5) unstable; urgency=low
+
+  * Fixes: NB#133451, NB#132922, NB#131460
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 21 Aug 2009 09:11:00 +0300
+
+hildon-theme-alpha (8.4) unstable; urgency=low
+
+  * New layout.
+  * Fixes: NB#130172, NB#129270
+  * Prevented the possibility to uninstall this theme from the device.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 04 Aug 2009 09:11:00 +0300
+
+hildon-theme-alpha (8.2) unstable; urgency=low
+
+  * New layout.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 11 Jul 2009 09:11:00 +0300
+
+hildon-theme-alpha (8.1) unstable; urgency=low
+
+  * Updates the theme.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 09 Jul 2009 09:11:00 +0300
+
+hildon-theme-alpha (8.0) unstable; urgency=low
+
+  * Updates the theme.
+  * Fixes: NB#121901
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 02 Jul 2009 09:11:00 +0300
+
+hildon-theme-alpha (7.9) unstable; urgency=low
+
+  * Adds clock background.
+  * Fixes: NB#121901, NB#125512
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 01 Jul 2009 09:11:00 +0300
+
+hildon-theme-alpha (7.8) unstable; urgency=low
+
+  * Updates the theme template and chat template. New layout.
+  * Fixes: NB#124308
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 29 Jun 2009 12:11:00 +0300
+
+hildon-theme-alpha (7.7) unstable; urgency=low
+
+  * Updates the theme template and chat template.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 26 Jun 2009 13:11:00 +0300
+
+hildon-theme-alpha (7.6) unstable; urgency=low
+
+  * Updates the theme.
+  * Fixes: NB#123506
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 22 Jun 2009 09:00:00 +0300
+
+hildon-theme-alpha (7.5) unstable; urgency=low
+
+  * Fixes a major problem with the template.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 17 Jun 2009 09:55:00 +0300
+
+hildon-theme-alpha (7.4) unstable; urgency=low
+
+  * Updates the theme.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 15 Jun 2009 09:55:00 +0300
+
+hildon-theme-alpha (7.3) unstable; urgency=low
+
+  * Updates the theme.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 04 Jun 2009 19:35:00 +0300
+
+hildon-theme-alpha (7.2) unstable; urgency=low
+
+  * Fixes: NB#118093, NB#115142
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 28 May 2009 10:00:00 +0300
+
+hildon-theme-alpha (7.1) unstable; urgency=low
+
+  * NB#118093, NB#118093
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 28 May 2009 10:00:00 +0300
+
+hildon-theme-alpha (7.0) unstable; urgency=low
+
+  * Latest theme template. Minor fixes.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 27 May 2009 13:30:00 +0300
+
+hildon-theme-alpha (6.9) unstable; urgency=low
+
+  * Latest theme template. Minor fixes.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 20 May 2009 10:37:02 +0300
+
+hildon-theme-alpha (6.8) unstable; urgency=low
+
+  * Fixes: NB#115142, NB#115359, NB#115544, NB#113817, NB#106546, NB#114019
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 13 May 2009 10:37:02 +0300
+
+hildon-theme-alpha (6.7) unstable; urgency=low
+
+  * Modifications in the theme templates.
+  * Modifications in backgrounds.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 05 May 2009 10:37:02 +0300
+
+hildon-theme-alpha (6.6) unstable; urgency=low
+
+  * Modifications in the themefile.
+  * Fixes: NB#110179, NB#110467
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 21 Apr 2009 10:37:02 +0300
+
+hildon-theme-alpha (6.5) unstable; urgency=low
+
+  * Modifications in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 9 Apr 2009 10:37:02 +0300
+
+hildon-theme-alpha (6.4) unstable; urgency=low
+
+  * Modifications in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 6 Apr 2009 13:55:02 +0300
+
+hildon-theme-alpha (6.3) unstable; urgency=low
+
+  * Modifications in the themefile.
+  * Fixes: NB#104948, NB#94642, NB#104023, NB#104082, NB#105079, NB#105152, NB#105156, NB#105174, NB#104300
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 30 Mar 2009 10:06:02 +0300
+
+hildon-theme-alpha (6.2) unstable; urgency=low
+
+  * Modifications in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 23 Mar 2009 12:48:02 +0200
+
+hildon-theme-alpha (6.1) unstable; urgency=low
+
+  * Modifications in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 19 Mar 2009 10:09:02 +0200
+
+hildon-theme-alpha (6.0) unstable; urgency=low
+
+  * Small tweaks.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 18 Mar 2009 14:00:02 +0200
+
+hildon-theme-alpha (5.9) unstable; urgency=low
+
+  * Fixes in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 19 Feb 2009 14:00:02 +0200
+
+hildon-theme-alpha (5.8) unstable; urgency=low
+
+  * Fixes in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 19 Feb 2009 10:52:02 +0200
+
+hildon-theme-alpha (5.7) unstable; urgency=low
+
+  * Fixes in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 19 Feb 2009 09:52:02 +0200
+
+hildon-theme-alpha (5.6) unstable; urgency=low
+
+  * Fixes in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 18 Feb 2009 14:15:48 +0200
+
+hildon-theme-alpha (5.5) unstable; urgency=low
+
+  * Fixes in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 13 Feb 2009 10:05:48 +0200
+
+
+hildon-theme-alpha (5.4) unstable; urgency=low
+
+  * Fixes in the themefile.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 11 Feb 2009 15:05:48 +0200
+
+hildon-theme-alpha (5.3) unstable; urgency=low
+
+  * New theme. Resubmit.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 29 Jan 2009 10:22:48 +0200
+
+hildon-theme-alpha (5.2) unstable; urgency=low
+
+  * New theme
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 21 Jan 2009 13:11:24 +0200
+
