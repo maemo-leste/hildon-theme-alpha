@@ -9,6 +9,6 @@ Vcs-Git: https://github.com/maemo-leste/hildon-theme-alpha
 Vcs-Browser: https://github.com/maemo-leste/hildon-theme-alpha
 
 Package: hildon-theme-alpha
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, gtk2-engines-sapwood, hildon-theme-cacher
 Description: Nokia Nseries Theme.
