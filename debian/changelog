@@ -1,3 +1,11 @@
+hildon-theme-alpha (9.5) unstable; urgency=medium
+
+  * Switch architecture to "all".
+  * Fix debian/control.
+  * Initial package import from binary package.
+
+ -- Ivan J. <parazyd@dyne.org>  Sat, 08 May 2021 12:50:35 +0200
+
 hildon-theme-alpha (9.4+0m5) unstable; urgency=low
 
   * This entry has been added by BIFH queue processor
