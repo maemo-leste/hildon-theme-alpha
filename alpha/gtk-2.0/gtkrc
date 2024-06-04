@@ -1019,6 +1019,27 @@ style "fremantle-button-group" {
 	engine "sapwood" {
 		image {
 			function = BOX
+			position = LEFT, RIGHT, TOP, BOTTOM
+			state    = INSENSITIVE
+			file     = "../images/ButtonGroupHorizontalSingleDisabled.png"
+			border   = { 16, 16, 0, 0 }
+		}
+		image {
+		    function = BOX
+			position = LEFT, RIGHT, TOP, BOTTOM
+			shadow   = IN
+			file     = "../images/ButtonGroupHorizontalSinglePressed.png"
+			border   = { 16, 16, 0, 0 }
+		}
+			image {
+			function = BOX
+			position = LEFT, RIGHT, TOP, BOTTOM
+			file     = "../images/ButtonGroupHorizontalSingleNormal.png"
+			border   = { 16, 16, 0, 0 }
+		}
+
+		image {
+			function = BOX
 			position = LEFT, TOP, BOTTOM
 			state    = INSENSITIVE
 			file     = "../images/ButtonGroupHorizontalLeftDisabled.png"
