@@ -1,3 +1,9 @@
+hildon-theme-alpha (9.6) unstable; urgency=medium
+
+  * fremantle-button-group: Add single button rc and images
+
+ -- Ivaylo Dimitrov <ivo.g.dimitrov.75@gmail.com>  Tue, 04 Jun 2024 21:43:32 +0300
+
 hildon-theme-alpha (9.5) unstable; urgency=medium
 
   * Switch architecture to "all".
