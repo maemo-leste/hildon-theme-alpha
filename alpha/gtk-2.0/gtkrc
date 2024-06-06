@@ -887,10 +887,12 @@ style "fremantle-landscape-dialpad-button" = "fremantle-button-common" {
 			function = BOX
 			shadow   = IN
 			file     = "../images/CallLandscapeDialButtonPressed.png"
+			border   = { 32, 32, 0, 0 }
 		}
 			image {
 			function = BOX
 			file     = "../images/CallLandscapeDialButtonNormal.png"
+			border   = { 32, 32, 0, 0 }
 		}
 	}
 }
@@ -906,10 +908,12 @@ style "fremantle-portrait-dialpad-button" = "fremantle-button-common" {
 			function = BOX
 			shadow   = IN
 			file     = "../images/CallPortraitDialButtonPressed.png"
+			border   = { 32, 32, 0, 0 }
 		}
 			image {
 			function = BOX
 			file     = "../images/CallPortraitDialButtonNormal.png"
+			border   = { 32, 32, 0, 0 }
 		}
 	}
 }
@@ -925,10 +929,12 @@ style "fremantle-dtmf-landscape-dialpad-button" = "fremantle-button-common" {
 			function = BOX
 			shadow   = IN
 			file     = "../images/CallDTMFLandscapeButtonPressed.png"
+			border   = { 32, 32, 0, 0 }
 		}
 			image {
 			function = BOX
 			file     = "../images/CallDTMFLandscapeButtonNormal.png"
+			border   = { 32, 32, 0, 0 }
 		}
 	}
 }
@@ -944,10 +950,12 @@ style "fremantle-dtmf-back-button" = "fremantle-button-common" {
 			function = BOX
 			shadow   = IN
 			file     = "../images/CallDTMFBackButtonPressed.png"
+			border   = { 32, 32, 0, 0 }
 		}
 			image {
 			function = BOX
 			file     = "../images/CallDTMFBackButtonNormal.png"
+			border   = { 32, 32, 0, 0 }
 		}
 	}
 }
@@ -962,10 +970,12 @@ style "fremantle-dtmf-portrait-dialpad-button" = "fremantle-button-common" {
 			function = BOX
 			shadow   = IN
 			file     = "../images/CallDTMFPortraitButtonPressed.png"
+			border   = { 32, 32, 0, 0 }
 		}
 			image {
 			function = BOX
 			file     = "../images/CallDTMFPortraitButtonNormal.png"
+			border   = { 32, 32, 0, 0 }
 		}
 	}
 }
@@ -981,10 +991,12 @@ style "fremantle-landscape-call-button" = "fremantle-button-common" {
 			function = BOX
 			shadow   = IN
 			file     = "../images/CallLandscapeCallButtonPressed.png"
+			border   = { 32, 32, 0, 0 }
 		}
 			image {
 			function = BOX
 			file     = "../images/CallLandscapeCallButtonNormal.png"
+			border   = { 32, 32, 0, 0 }
 		}
 	}
 }
@@ -999,10 +1011,12 @@ style "fremantle-portrait-call-button" = "fremantle-button-common" {
 			function = BOX
 			shadow   = IN
 			file     = "../images/CallPortraitCallButtonPressed.png"
+			border   = { 32, 32, 0, 0 }
 		}
 			image {
 			function = BOX
 			file     = "../images/CallPortraitCallButtonNormal.png"
+			border   = { 32, 32, 0, 0 }
 		}
 	}
 }
